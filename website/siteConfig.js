@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'FiscalHub Migration Doc', // Title for your website.
   tagline: 'Para ver exemplos de utilização com o Angular Material acesse a pagina de exemplos.',
   url: 'https://lucasferreiralsf.github.io', // Your website URL
-  baseUrl: '/fiscalhubdoc', // Base URL for your project */
+  baseUrl: '/fiscalhubdoc/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
