@@ -1,0 +1,11 @@
+{
+  "version-1.0.0-docs": {
+    "Exemplos": [
+      "version-1.0.0-grid-principal",
+      "version-1.0.0-modal"
+    ],
+    "Helpers": [
+      "version-1.0.0-helpers"
+    ]
+  }
+}
