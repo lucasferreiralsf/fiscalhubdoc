@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Exemplos": [
+      "grid-principal",
+      "modal"
+    ],
+    "Helpers": ["helpers"]
+  }
+}
