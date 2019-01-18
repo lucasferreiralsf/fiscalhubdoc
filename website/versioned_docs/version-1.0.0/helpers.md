@@ -82,3 +82,43 @@ Para aplicar um Font-Size basta utilizar a seguinte sintaxe:
 <div class="fs-20"> Font-Size de 20px. </div>
 <div class="fs-15"> Font-Size de 15px. </div>
 ```
+
+## Colors
+
+Para aplicar cor nos elementos basta utilizar a seguinte sintaxe:
+
+- class="color-nomedacor"
+
+>Onde **"nomedacor"** pode pode ser preenchido com um dos valores:
+> - primary
+> - red
+> - red-hover
+> - yellow
+> - yellow-hover
+
+### Exemplo Colors
+```html
+<div class="color-primary"> Texto com color primary. </div>
+<div class="color-red"> Texto com color red. </div>
+<div class="color-yellow-hover"> Texto com color yellow hover. </div>
+```
+
+## Background Colors
+
+Para aplicar cor nos elementos basta utilizar a seguinte sintaxe:
+
+- class="background-color-nomedacor"
+
+>Onde **"nomedacor"** pode pode ser preenchido com um dos valores:
+> - primary
+> - red
+> - red-hover
+> - yellow
+> - yellow-hover
+
+### Exemplo Background Colors
+```html
+<div class="background-color-primary"> Texto com background-color primary. </div>
+<div class="background-color-red"> Texto com background-color red. </div>
+<div class="background-color-yellow-hover"> Texto com background-color yellow hover. </div>
+```
